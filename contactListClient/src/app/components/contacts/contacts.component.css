@@ -1,0 +1,16 @@
+.list-item {
+    cursor: pointer;
+}
+.list-item:hover {
+    cursor: pointer;
+    background-color: whitesmoke;
+}
+mat-form-field {
+    width: 100%;
+}
+.fa-edit {
+    color: blue;
+}
+.fa-trash {
+    color: red;
+}

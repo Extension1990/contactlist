@@ -1,0 +1,6 @@
+{
+    "/api/contacts": {
+      "target": "http://localhost:5289",
+      "secure": false
+    }
+  }
